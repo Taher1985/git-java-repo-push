@@ -6,7 +6,7 @@ import java.util.List;
 public class _1List {
 
 	public void listOperation() {
-		List<String> names = Arrays.asList("A", "B");
+		List<String> names = Arrays.asList("A", "B", "C");
 		System.out.println(names);
 	}
 
