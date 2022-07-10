@@ -9,6 +9,7 @@ public class _3Map {
 		Map<String, String> names = new HashMap<>();
 		names.put("A", "1");
 		names.put("B", "2");
+		names.put("Z", "3");
 		System.out.println(names);
 	}
 
