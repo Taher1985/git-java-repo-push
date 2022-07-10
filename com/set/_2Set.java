@@ -11,6 +11,7 @@ public class _2Set {
 		names.add("B");
 		names.add("C");
 		names.add("D");
+		names.add("Q");
 		System.out.println(names);
 	}
 
