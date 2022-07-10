@@ -9,7 +9,11 @@ public class _2Set {
 		Set<String> names = new HashSet<>();
 		names.add("A");
 		names.add("B");
+<<<<<<< HEAD
 		names.add("C");
+=======
+		names.add("D");
+>>>>>>> 89598531f67093604cc0efe1e2d5db68986d7f6b
 		System.out.println(names);
 	}
 
