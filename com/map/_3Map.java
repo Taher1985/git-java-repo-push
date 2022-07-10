@@ -10,6 +10,7 @@ public class _3Map {
 		names.put("A", "1");
 		names.put("B", "2");
 		names.put("Z", "3");
+		names.put("M", "4");
 		System.out.println(names);
 	}
 
