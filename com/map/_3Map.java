@@ -11,6 +11,7 @@ public class _3Map {
 		names.put("B", "2");
 		names.put("Z", "3");
 		names.put("X", "3");
+		names.put("M", "4");
 		System.out.println(names);
 	}
 
