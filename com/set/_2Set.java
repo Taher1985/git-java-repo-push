@@ -9,6 +9,7 @@ public class _2Set {
 		Set<String> names = new HashSet<>();
 		names.add("A");
 		names.add("B");
+		names.add("D");
 		System.out.println(names);
 	}
 
